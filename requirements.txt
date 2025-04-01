@@ -1,0 +1,5 @@
+discord.py>=2.0.0
+pychrome>=0.2.3
+pywin32>=300
+psutil>=5.8.0
+keyboard>=0.13.5
